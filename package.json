@@ -1,0 +1,39 @@
+{
+  "name": "akroma",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Rescuing you from all of the overpromised CMS's you've ever used",
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "express": "~4.13.4",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.0",
+    "pug": "^2.0.0-beta6"
+  },
+  "scripts": {
+    "start": "node ./bin/www --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akroma-io/akroma.git"
+  },
+  "keywords": [
+    "CMS",
+    "Express",
+    "MongoDB",
+    "NoSQL",
+    "NGINX",
+    "ES6"
+  ],
+  "author": {
+    "name": "Leonardo Bell",
+    "email": "lmbell4@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/akroma-io/akroma/issues"
+  },
+  "homepage": "https://github.com/akroma-io/akroma#readme"
+}
